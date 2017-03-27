@@ -13,9 +13,9 @@
   - Jest tests
 
 
-##Frontend focused
+## Frontend focused
 
-- [workly](http://workly.info/tool.html)
+- [**workly**](http://workly.info/tool.html)
   - Small two-fold tool that calculates:
     · Hourly rate given your expenses, tax country and desired take-home salary
     · Net salary given your country and Gross amoung
