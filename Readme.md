@@ -23,3 +23,9 @@
   - Preact, Recharts, MobX.
 
 
+- [**RepoSplit**](https://github.com/git-toni/reposplit)
+  - Code browsing Chrome extension
+  - Browse Github repositories in a comfortable way, featuring split panes.
+  - React, MobX.
+
+
